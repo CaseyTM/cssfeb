@@ -1,0 +1,30 @@
+.main-wrapper{
+	border: 1px solid black;
+	width: 100%;
+	float: left;
+}
+.front-wheel{
+	margin-left: 250px;
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	border-radius: 100%;
+	float: left;
+}
+.mid-body-section{
+	margin-top: 45px;
+	height: 10px;
+	width: 225px;
+	background-color: green;
+	float: left;
+	position: absolute;
+	
+	
+}
+.rear-wheel{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	border-radius: 100%;
+	float: left;
+}
